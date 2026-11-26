@@ -1,0 +1,11 @@
+# データ・配布物（push しない）
+*.zip
+*.csv
+*.txt
+!requirements.txt
+*.npy
+sdnet/
+quick_result/
+
+# Python
+__pycache__/
